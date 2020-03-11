@@ -32,4 +32,4 @@ The MVP (v0.1) will include the following items:
 * [Presentation slides](https://docs.google.com/presentation/d/12o_Hm2-iUQrpSLjYbNULFY7OnBbEp4UJzf6qTp5JBX0/edit?usp=sharing)
 * Brainstorming in [Notion](https://www.notion.so/SolidarityCard-48b71df290e04973bf61c88abd381084)
 * [Payment page preview](https://juliens-blank-site-20b4d7.webflow.io/)
-* [Discussion channel](https://chat.gitcoin.co/hackathons/channels/blockchainforsocialimpact-2)
+* [Gitcoin discussion channel](https://chat.gitcoin.co/hackathons/channels/solidaritycard)
