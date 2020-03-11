@@ -22,11 +22,10 @@ See the [detailed process here](https://docs.google.com/presentation/d/12o_Hm2-i
 
 ## MVP
 
-The MVP (v0.1) should include the following items: 
+The MVP (v0.1) will include the following items: 
 
 * A simple payment page ([preview](https://juliens-blank-site-20b4d7.webflow.io/))
-* Cards design & shipping process
-* Cards activation process
+* Cards activation UI
 
 ## Resources
 
