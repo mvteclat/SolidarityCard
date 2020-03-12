@@ -35,3 +35,13 @@ The MVP (v0.1) will include the following items:
 * [Gitcoin discussion channel](https://chat.gitcoin.co/hackathons/channels/solidaritycard)
 
 ![Community-powered KYC](Design/Flowcharts/Community-powered_KYC.svg)
+
+![Donate to a group](Design/Flowcharts/Donate_to_a_group.drawio)
+
+![Donate to a group](Design/Flowcharts/Donate_to_a_group.pdf)
+
+![Donate to a group](Design/Flowcharts/Donate_to_a_group.png)
+
+![Donate to a group](Design/Flowcharts/Donate_to_a_group@2x.png)
+
+![Donate to a group](Design/Flowcharts/Donate_to_a_group.svg)
