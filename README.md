@@ -34,4 +34,4 @@ The MVP (v0.1) will include the following items:
 * [Payment page preview](https://juliens-blank-site-20b4d7.webflow.io/)
 * [Gitcoin discussion channel](https://chat.gitcoin.co/hackathons/channels/solidaritycard)
 
-![Community-powered KYC](Design/Flowcharts/Community-powered%20KYC.svg)
+![Community-powered KYC](Design/Flowcharts/Community-powered_KYC.svg)
