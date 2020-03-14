@@ -37,8 +37,8 @@ The MVP (v0.1) will include the following items:
 ## Community-powered KYC
 ![Community-powered KYC](Design/Flowcharts/Community-powered_KYC.svg)
 
-## Donate to a person
+## Donate to a person (instant)
 ![Donate to a person](Design/Flowcharts/Donate_to_a_person.svg)
 
-## Donate to a group
+## Donate to a group (deferred)
 ![Donate to a group](Design/Flowcharts/Donate_to_a_group.svg)
