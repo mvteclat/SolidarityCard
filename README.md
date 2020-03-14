@@ -24,15 +24,20 @@ See the [detailed process here](https://docs.google.com/presentation/d/12o_Hm2-i
 
 The MVP (v0.1) will include the following items: 
 
-* A simple payment page ([preview](https://juliens-blank-site-20b4d7.webflow.io/))
-* Cards activation UI
+* A simple donation page ([preview](https://juliens-blank-site-20b4d7.webflow.io/))
+* Card activation UI
 
 ## Resources
 
-* [Presentation slides](https://docs.google.com/presentation/d/12o_Hm2-iUQrpSLjYbNULFY7OnBbEp4UJzf6qTp5JBX0/edit?usp=sharing)
-* Brainstorming in [Notion](https://www.notion.so/SolidarityCard-48b71df290e04973bf61c88abd381084)
-* [Payment page preview](https://juliens-blank-site-20b4d7.webflow.io/)
-* [Gitcoin discussion channel](https://chat.gitcoin.co/hackathons/channels/solidaritycard)
+* [Gitcoin channel](https://chat.gitcoin.co/hackathons/channels/solidaritycard)
+
+* [Brainstorming](https://www.notion.so/SolidarityCard-48b71df290e04973bf61c88abd381084)
+
+* [Presentation](https://docs.google.com/presentation/d/12o_Hm2-iUQrpSLjYbNULFY7OnBbEp4UJzf6qTp5JBX0/edit?usp=sharing)
+
+* [Design prototypes](https://www.figma.com/file/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?node-id=109%3A2)
+
+* [Donation page preview](https://juliens-blank-site-20b4d7.webflow.io/)
 
 ## Community-powered KYC
 ![Community-powered KYC](Design/Flowcharts/Community-powered_KYC.svg)
