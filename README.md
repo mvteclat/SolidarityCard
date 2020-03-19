@@ -1,6 +1,6 @@
-# SolCard
+# SolidarityCard
 
-SolCard is a debit card for the homeless and undocumented.
+An inclusive finance debit card for the homeless and undocumented.
 
 The QR code printed on the physical debit card points to a payment page that allows donors to donate directly (fiat and crypto), the money is then at the disposal of the beneficiary. The project includes a robust community-powered KYC process so that the beneficiaries don’t need any physical address, mobile phone or anything. The system allows for donations to a community of beneficiaries.
 
