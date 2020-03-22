@@ -31,11 +31,11 @@ The MVP (v0.1) will include the following components:
 * Donations to a community of beneficiaries
 * Crypto payments
 
-## Flow charts
+## Flowcharts
 
-* [Community-powered KYC flow chart](https://docs.google.com/presentation/d/12o_Hm2-iUQrpSLjYbNULFY7OnBbEp4UJzf6qTp5JBX0/edit#slide=id.g7130c576f9_0_421)
-* [Direct donation flow chart](https://docs.google.com/presentation/d/12o_Hm2-iUQrpSLjYbNULFY7OnBbEp4UJzf6qTp5JBX0/edit#slide=id.g7130c576f9_0_434)
-* [Group donation flow chart](https://docs.google.com/presentation/d/12o_Hm2-iUQrpSLjYbNULFY7OnBbEp4UJzf6qTp5JBX0/edit#slide=id.g7130c576f9_0_439)
+* [Community-powered trust](https://github.com/mvteclat/SolidarityCard/Design/Flowcharts/Community-powered20%trust.pdf)
+* [Donate to one person](https://github.com/mvteclat/SolidarityCard/Design/Flowcharts/Donate_to_one_person.pdf)
+* [Donate to a community](https://docs.google.com/presentation/d/12o_Hm2-iUQrpSLjYbNULFY7OnBbEp4UJzf6qTp5JBX0/edit#slide=id.g7130c576f9_0_439)
 
 ## Mockups
 
