@@ -34,8 +34,8 @@ The MVP (v0.1) will include the following components:
 ## Flowcharts
 
 * [Community-powered trust](Design/Flowcharts/Community-powered_trust.pdf)
-* [Donate to one person](https://github.com/mvteclat/SolidarityCard/Design/Flowcharts/Donate_to_one_person.pdf)
-* [Donate to a community](https://docs.google.com/presentation/d/12o_Hm2-iUQrpSLjYbNULFY7OnBbEp4UJzf6qTp5JBX0/edit#slide=id.g7130c576f9_0_439)
+* [Donate to one person](/Design/Flowcharts/Donate_to_one_person.pdf)
+* [Donate to a community](/Design/Flowcharts/Donate_to_a_community.pdf)
 
 ## Mockups
 
