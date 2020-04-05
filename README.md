@@ -1,6 +1,6 @@
 # SolidarityCard
 
-An inclusive finance debit card for the homeless and undocumented.
+An inclusive finance debit card for homeless and undocumented people that enables them to directly receive cashless donations and then use this money in all present-day stores.
 
 The QR code printed on the physical debit card points to a payment page that allows donors to donate directly (fiat and crypto), the money is then at the disposal of the beneficiary. The project includes a robust community-powered KYC process so that the beneficiaries don’t need any physical address, mobile phone or anything. The system allows for donations to a community of beneficiaries.
 
@@ -26,31 +26,31 @@ See the [detailed process here](https://docs.google.com/presentation/d/12o_Hm2-i
 
 The MVP (v0.1) will include the following components:
 
-* Community-powered KYC interface
-* Debit card & payment page
-* Donations to a community of beneficiaries
-* Crypto payments
+- Community-powered KYC interface
+- Debit card & payment page
+- Donations to a community of beneficiaries
+- Crypto payments
 
 ## Flowcharts
 
-* [Community-powered trust](Design/Flowcharts/Community-powered_trust.pdf)
-* [Donate to one person](Design/Flowcharts/Donate_to_one_person.pdf)
-* [Donate to a community](Design/Flowcharts/Donate_to_a_community.pdf)
+- [Community-powered trust](Design/Flowcharts/Community-powered_trust.pdf)
+- [Donate to one person](Design/Flowcharts/Donate_to_one_person.pdf)
+- [Donate to a community](Design/Flowcharts/Donate_to_a_community.pdf)
 
 ## Design
 
-* [Card mockups](https://www.figma.com/file/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?node-id=0%3A1)
-* [Beneficiary profile](https://www.figma.com/file/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?node-id=110%3A0)
-* [Community profile]()
+- [Card mockups](https://www.figma.com/file/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?node-id=0%3A1)
+- [Beneficiary profile](https://www.figma.com/file/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?node-id=110%3A0)
+- [Community profile]()
 
 ## Interviews
 
-* [An interview of the Escales Solidaires' staff]()
+- [An interview of the Escales Solidaires' staff]()
 
 ## Resources
 
-* [Brainstorming](https://www.notion.so/SolidarityCard-48b71df290e04973bf61c88abd381084)
-* [Gitcoin discussion channel](https://chat.gitcoin.co/hackathons/channels/solidaritycard)
-* [Design prototypes](https://www.figma.com/file/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?node-id=110%3A0)
-* [Presentation](https://docs.google.com/presentation/d/12o_Hm2-iUQrpSLjYbNULFY7OnBbEp4UJzf6qTp5JBX0/edit?usp=sharing)
-* [Payment page preview](https://juliens-blank-site-20b4d7.webflow.io/)
+- [Brainstorming](https://www.notion.so/SolidarityCard-48b71df290e04973bf61c88abd381084)
+- [Gitcoin discussion channel](https://chat.gitcoin.co/hackathons/channels/solidaritycard)
+- [Design prototypes](https://www.figma.com/file/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?node-id=110%3A0)
+- [Presentation](https://docs.google.com/presentation/d/12o_Hm2-iUQrpSLjYbNULFY7OnBbEp4UJzf6qTp5JBX0/edit?usp=sharing)
+- [Payment page preview](https://juliens-blank-site-20b4d7.webflow.io/)
