@@ -4,13 +4,13 @@ Around the globe, more and more people are transitioning to a cashless existence
 
 We would like to propose a radical experiment to solve this issue.
 
-## Pitchdeck
-
-- [Pitchdeck](BSIC/Week%205/Pitchdeck.pdf)
-
 ## Video
 
 [![BSIC 2020 - SolidarityCard](https://img.youtube.com/vi/FAhUl4dbz8E/0.jpg)](https://www.youtube.com/watch?v=FAhUl4dbz8E)
+
+## Pitchdeck
+
+- [Pitchdeck](BSIC/Week%205/Pitchdeck.pdf)
 
 ## Interactive Prototype
 
