@@ -8,6 +8,10 @@ We would like to propose a radical experiment to solve this issue.
 
 - [Pitchdeck](BSIC/Week%205/Pitchdeck.pdf)
 
+## Video
+
+![Video](https://youtu.be/FAhUl4dbz8E)
+
 ## Interactive Prototype
 
 - [Interactive Prototype](https://www.figma.com/proto/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?scaling=scale-down)
