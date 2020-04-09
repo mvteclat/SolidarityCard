@@ -12,6 +12,8 @@ We would like to propose a radical experiment to solve this issue.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FAhUl4dbz8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![BSIC 2020 - SolidarityCard](https://img.youtube.com/vi/FAhUl4dbz8E/0.jpg)](https://www.youtube.com/watch?v=FAhUl4dbz8E)
+
 - [Video](https://youtu.be/FAhUl4dbz8E)
 
 ## Interactive Prototype
