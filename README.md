@@ -6,7 +6,7 @@ We would like to propose a radical experiment to solve this issue.
 
 ## Video
 
-[![BSIC2020-SolidarityCard](https://img.youtube.com/vi/FAhUl4dbz8E/1.jpg)](https://www.youtube.com/watch?v=FAhUl4dbz8E)
+[![BSIC2020-SolidarityCard](https://img.youtube.com/vi/FAhUl4dbz8E/2.jpg)](https://www.youtube.com/watch?v=FAhUl4dbz8E)
 
 ## Pitchdeck
 
