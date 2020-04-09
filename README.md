@@ -10,7 +10,7 @@ We would like to propose a radical experiment to solve this issue.
 
 ## Video
 
-![Video](https://youtu.be/FAhUl4dbz8E)
+- [Video](https://youtu.be/FAhUl4dbz8E)
 
 ## Interactive Prototype
 
