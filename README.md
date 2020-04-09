@@ -12,11 +12,11 @@ SolidarityCard is an inclusive finance debit card for homeless and undocumented 
 
 ## Pitchdeck
 
-[](https://docs.google.com/presentation/d/1D7rkCNB7WatxgWpZpoNnQ2nit2riOr8CDnE6PiHWmH8/edit?usp=sharing)
+![](https://docs.google.com/presentation/d/1D7rkCNB7WatxgWpZpoNnQ2nit2riOr8CDnE6PiHWmH8/edit?usp=sharing)
 
 ## Interactive Prototype
 
-[](https://www.figma.com/proto/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?scaling=scale-down)
+![](https://www.figma.com/proto/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?scaling=scale-down)
 
 ## Flowcharts
 
