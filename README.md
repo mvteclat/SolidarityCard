@@ -1,14 +1,8 @@
 # SolidarityCard
 
-## Motivation
-
 Around the globe, more and more people are transitioning to a cashless existence. China and Scandinavia are places where people rarely use cash anymore. This presents additional challenges to those who find themselves on the edges of society. Full participation in the cashless economy requires access to government-issued documents, bank accounts, and mobile computation. But, as we all know, the most vulnerable and marginalized population groups, homeless and undocumented people, are excluded due to these inhumane barriers to entry. And now that the rest of us are making the transition, will we walk past them, indifferent to their plight, and unable to spare a dime? Will we transcend into the decentralized cloud and leave them all behind?
 
 We would like to propose a radical experiment to solve this issue.
-
-## Solution
-
-SolidarityCard is an inclusive finance debit card for homeless and undocumented people that enables them to directly receive cashless donations and then use this money in all present-day stores without the need for a smartphone.
 
 ## Pitchdeck
 
@@ -35,3 +29,4 @@ SolidarityCard is an inclusive finance debit card for homeless and undocumented 
 
 - [Brainstorming](https://www.notion.so/SolidarityCard-48b71df290e04973bf61c88abd381084)
 - [Gitcoin discussion channel](https://chat.gitcoin.co/hackathons/channels/solidaritycard)
+- [Trello](https://trello.com/b/rhMJpLpr)
