@@ -6,11 +6,11 @@ We would like to propose a radical experiment to solve this issue.
 
 ## Video
 
-[![BSIC 2020 - SolidarityCard](https://img.youtube.com/vi/FAhUl4dbz8E/0.jpg)](https://www.youtube.com/watch?v=FAhUl4dbz8E)
+[![BSIC2020-SolidarityCard](https://img.youtube.com/vi/FAhUl4dbz8E/0.jpg)](https://www.youtube.com/watch?v=FAhUl4dbz8E)
 
 ## Pitchdeck
 
-- [Pitchdeck](BSIC/Week%205/Pitchdeck.pdf)
+- [Pitchdeck](BSIC/Week5/Pitchdeck.pdf)
 
 ## Interactive Prototype
 
