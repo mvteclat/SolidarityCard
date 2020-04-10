@@ -14,9 +14,9 @@ We would like to propose a radical experiment to solve this issue.
 
 [![BSIC2020-SolidarityCard-Prototype_Demo](https://img.youtube.com/vi/tHMRko-hkqw/0.jpg)](https://www.youtube.com/watch?v=tHMRko-hkqw)
 
-## Pitchdeck
+## Pitch Deck
 
-- [Pitchdeck](BSIC/Week5/Pitchdeck.pdf)
+- [Pitch Deck](BSIC/Week_5/Pitch_Deck.pdf)
 
 ## Interactive Prototype
 
