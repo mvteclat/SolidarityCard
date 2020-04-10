@@ -6,11 +6,11 @@ We would like to propose a radical experiment to solve this issue.
 
 ## Videos
 
-Video Pitch ~19:58
+[Video Pitch (19:57)](https://www.youtube.com/watch?v=FAhUl4dbz8E)
 
 [![BSIC2020-SolidarityCard-Video_Pitch](https://img.youtube.com/vi/FAhUl4dbz8E/0.jpg)](https://www.youtube.com/watch?v=FAhUl4dbz8E)
 
-Prototype Demo ~4:58
+[Prototype Demo (4:57)](https://www.youtube.com/watch?v=tHMRko-hkqw)
 
 [![BSIC2020-SolidarityCard-Prototype_Demo](https://img.youtube.com/vi/tHMRko-hkqw/0.jpg)](https://www.youtube.com/watch?v=tHMRko-hkqw)
 
