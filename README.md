@@ -48,6 +48,6 @@ We would like to propose a radical experiment to solve this issue.
 - [Instagram](https://instagram.com/solcardorg)
 - [Twitter](https://twitter.com/solcardorg)
 
-## Support our work
+## Support Our Work
 
 solcard.eth
