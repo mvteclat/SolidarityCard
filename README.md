@@ -4,9 +4,13 @@ More and more people around the globe are transitioning to a cashless existence.
 
 We would like to propose a radical experiment to solve this issue.
 
-## Video
+## Videos
 
-[![BSIC2020-SolidarityCard](https://img.youtube.com/vi/FAhUl4dbz8E/0.jpg)](https://www.youtube.com/watch?v=FAhUl4dbz8E)
+Video Pitch ~19:58
+[![BSIC2020-SolidarityCard-Video_Pitch](https://img.youtube.com/vi/FAhUl4dbz8E/0.jpg)](https://www.youtube.com/watch?v=FAhUl4dbz8E)
+
+Prototype Demo ~4:58
+[![BSIC2020-SolidarityCard-Prototype_Demo](https://img.youtube.com/vi/tHMRko-hkqw/0.jpg)](https://www.youtube.com/watch?v=tHMRko-hkqw)
 
 ## Pitchdeck
 
