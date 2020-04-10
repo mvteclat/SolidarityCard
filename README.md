@@ -38,6 +38,16 @@ We would like to propose a radical experiment to solve this issue.
 ## Resources
 
 - [Brainstorming](https://www.notion.so/SolidarityCard-48b71df290e04973bf61c88abd381084)
-- [Gitcoin discussion channel](https://chat.gitcoin.co/hackathons/channels/solidaritycard)
+- [Gitcoin Chat channel](https://chat.gitcoin.co/hackathons/channels/solidaritycard)
 - [Google Drive](https://drive.google.com/drive/folders/11EGZdEhwkAx2pG4HqSlIMlCDiTIJb7ay?usp=sharing)
 - [Trello](https://trello.com/b/rhMJpLpr)
+
+## Social Media
+
+- [Facebook](https://facebook.com/solcardorg)
+- [Instagram](https://instagram.com/solcardorg)
+- [Twitter](https://twitter.com/solcardorg)
+
+## Support our work
+
+solcard.eth
