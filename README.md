@@ -24,9 +24,9 @@ We would like to propose a radical experiment to solve this issue.
 
 ## Flowcharts
 
-- [Community-powered trust](Design/Flowcharts/Community-powered_trust.pdf)
-- [Donate to one person](Design/Flowcharts/Donate_to_one_person.pdf)
-- [Donate to a community](Design/Flowcharts/Donate_to_a_community.pdf)
+- [Community-powered trust](Design/Flowcharts/Flowchart-Community_powered_trust.pdf)
+- [Donate to one person](Design/Flowcharts/Flowchart-Donate_to_one_person.pdf)
+- [Donate to a community](Design/Flowcharts/Flowchart-Donate_to_a_community.pdf)
 
 ## Design
 
