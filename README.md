@@ -8,7 +8,7 @@ We would like to propose a radical experiment to solve this issue.
 
 ## Pitch Deck
 
-- [Pitch Deck](BSIC/Week_5/Pitch_Deck.pdf)
+- [Pitch Deck](https://docs.google.com/presentation/d/1D7rkCNB7WatxgWpZpoNnQ2nit2riOr8CDnE6PiHWmH8/edit?usp=sharing)
 
 ## Interactive Prototype
 
