@@ -2,7 +2,7 @@
 
 More and more people around the globe are transitioning to a cashless existence. China and Scandinavia are places where cash is rarely used anymore. This presents additional challenges to those who find themselves on the edges of society. Full participation in the cashless economy requires access to government-issued documents, bank accounts, and mobile computation. But, as we all know, the most vulnerable and marginalized population groups, homeless and undocumented people, are excluded due to these inhumane barriers to entry. And now that the rest of us are making the transition, will we walk past them, indifferent to their plight, and unable to spare a dime? Will we transcend into the decentralized cloud and leave them all behind?
 
-The global health crisis unleashed by Covid-19 will only accelerate this transition.
+The global health crisis unleashed by COVID19 will only accelerate this transition.
 
 We would like to propose a radical experiment to solve this issue.
 
