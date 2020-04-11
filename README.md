@@ -2,7 +2,17 @@
 
 More and more people around the globe are transitioning to a cashless existence. China and Scandinavia are places where cash is rarely used anymore. This presents additional challenges to those who find themselves on the edges of society. Full participation in the cashless economy requires access to government-issued documents, bank accounts, and mobile computation. But, as we all know, the most vulnerable and marginalized population groups, homeless and undocumented people, are excluded due to these inhumane barriers to entry. And now that the rest of us are making the transition, will we walk past them, indifferent to their plight, and unable to spare a dime? Will we transcend into the decentralized cloud and leave them all behind?
 
+The global health crisis unleashed by Covid-19 will only accelerate this transition.
+
 We would like to propose a radical experiment to solve this issue.
+
+## Pitch Deck
+
+- [Pitch Deck](BSIC/Week_5/Pitch_Deck.pdf)
+
+## Interactive Prototype
+
+- [Interactive Prototype](https://www.figma.com/proto/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?scaling=scale-down)
 
 ## Videos
 
@@ -13,14 +23,6 @@ We would like to propose a radical experiment to solve this issue.
 [Prototype Demo (4:57)](https://www.youtube.com/watch?v=tHMRko-hkqw)
 
 [![BSIC2020-SolidarityCard-Prototype_Demo](https://img.youtube.com/vi/tHMRko-hkqw/0.jpg)](https://www.youtube.com/watch?v=tHMRko-hkqw)
-
-## Pitch Deck
-
-- [Pitch Deck](BSIC/Week_5/Pitch_Deck.pdf)
-
-## Interactive Prototype
-
-- [Interactive Prototype](https://www.figma.com/proto/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?scaling=scale-down)
 
 ## Flowcharts
 
@@ -48,6 +50,6 @@ We would like to propose a radical experiment to solve this issue.
 - [Instagram](https://instagram.com/solcardorg)
 - [Twitter](https://twitter.com/solcardorg)
 
-## Support Our Work
+## Throw In A Coin To Support Our Work
 
 solcard.eth
