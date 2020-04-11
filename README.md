@@ -32,10 +32,11 @@ We would like to propose a radical experiment to solve this issue.
 
 ## Design
 
-- [Card mockups](https://www.figma.com/file/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?node-id=0%3A1)
 - [Donor flow](https://www.figma.com/file/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?node-id=110%3A0)
+
+- [Card](https://www.figma.com/file/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?node-id=0%3A1)
 - [Flowcharts](https://www.figma.com/file/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?node-id=172%3A0)
-- [User Personas](https://www.figma.com/file/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?node-id=371%3A0)
+- [Personas](https://www.figma.com/file/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?node-id=371%3A0)
 
 ## Resources
 
