@@ -6,23 +6,11 @@ The global health crisis unleashed by COVID19 will only accelerate this transiti
 
 We would like to propose a radical experiment to solve this issue.
 
-## Pitch Deck
+## Pitchdeck
 
-- [Pitch Deck](https://docs.google.com/presentation/d/1D7rkCNB7WatxgWpZpoNnQ2nit2riOr8CDnE6PiHWmH8/edit?usp=sharing)
+- [Pitchdeck-English](https://docs.google.com/presentation/d/1D7rkCNB7WatxgWpZpoNnQ2nit2riOr8CDnE6PiHWmH8/edit?usp=sharing)
 
-## Interactive Prototype
-
-- [Interactive Prototype](https://www.figma.com/proto/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?scaling=scale-down)
-
-## Videos
-
-[Video Pitch (19:57)](https://www.youtube.com/watch?v=FAhUl4dbz8E)
-
-[![BSIC2020-SolidarityCard-Video_Pitch](https://img.youtube.com/vi/FAhUl4dbz8E/0.jpg)](https://www.youtube.com/watch?v=FAhUl4dbz8E)
-
-[Prototype Demo (4:57)](https://www.youtube.com/watch?v=tHMRko-hkqw)
-
-[![BSIC2020-SolidarityCard-Prototype_Demo](https://img.youtube.com/vi/tHMRko-hkqw/0.jpg)](https://www.youtube.com/watch?v=tHMRko-hkqw)
+- [Pitchdeck-Français](https://www.figma.com/proto/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard)
 
 ## Flowcharts
 
@@ -40,9 +28,8 @@ We would like to propose a radical experiment to solve this issue.
 ## Resources
 
 - [Brainstorming](https://www.notion.so/SolidarityCard-48b71df290e04973bf61c88abd381084)
-- [Gitcoin Chat channel](https://chat.gitcoin.co/hackathons/channels/solidaritycard)
 - [Google Drive](https://drive.google.com/drive/folders/11EGZdEhwkAx2pG4HqSlIMlCDiTIJb7ay?usp=sharing)
-- [Trello](https://trello.com/b/rhMJpLpr)
+- [Trello](https://trello.com/b/OLJdH435/solidaritycard)
 
 ## Social Media
 
