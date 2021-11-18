@@ -8,9 +8,8 @@ We would like to propose a radical experiment to solve this issue.
 
 ## Pitchdeck
 
-- [Pitchdeck-English](https://docs.google.com/presentation/d/1D7rkCNB7WatxgWpZpoNnQ2nit2riOr8CDnE6PiHWmH8/edit?usp=sharing)
-
-- [Pitchdeck-Français](https://www.figma.com/proto/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard)
+- [Pitchdeck-English](https://www.figma.com/proto/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?node-id=2672%3A738)
+- [Pitchdeck-Français](https://www.figma.com/proto/rM6NfLVrjyk7Y7VCCkGJEo/SolidarityCard?node-id=1998%3A76)
 
 ## Flowcharts
 
