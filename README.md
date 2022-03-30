@@ -28,7 +28,6 @@ We would like to propose a radical experiment to solve this issue.
 
 - [Brainstorming](https://www.notion.so/SolidarityCard-48b71df290e04973bf61c88abd381084)
 - [Google Drive](https://drive.google.com/drive/folders/11EGZdEhwkAx2pG4HqSlIMlCDiTIJb7ay?usp=sharing)
-- [Trello](https://trello.com/b/OLJdH435/solidaritycard)
 
 ## Social Media
 
