@@ -1,21 +1,28 @@
 <svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="AppIcon-SolidarityVoice-FF4D00-720px">
-<rect width="720" height="720" rx="160" fill="#FF4D00"/>
+<mask id="mask0_7002_73" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="720" height="720">
+<path id="AppIcon-Mask" d="M0 156C0 69.8436 69.8436 0 156 0H564C650.156 0 720 69.8436 720 156V564C720 650.156 650.156 720 564 720H156C69.8436 720 0 650.156 0 564V156Z" fill="#FF0000"/>
+</mask>
+<g mask="url(#mask0_7002_73)">
+<g id="Logo-SolidarityVoice-FF4D00-720px">
+<rect width="720" height="720" fill="#FF4D00"/>
 <g id="Bubbles-Round">
 <g id="Left">
-<mask id="mask0_6463_37" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="138" y="138" width="296" height="296">
+<mask id="mask1_7002_73" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="138" y="138" width="296" height="296">
 <path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M266.554 398.082C244.367 415.402 205.344 434 189.683 434C179.633 434 176.762 425.056 181.852 417.958C183.312 415.868 185.474 413.039 187.985 409.754C193.999 401.884 202.015 391.397 207.171 382.182C208.215 380.053 207.563 377.923 205.605 376.788C163.711 352.369 138 312.477 138 267.047C138 195.638 203.778 138 286 138C368.222 138 434 195.638 434 267.047C434 267.591 433.996 268.134 433.989 268.676C350.305 268.682 279.962 323.223 269.908 396.132C268.864 396.516 267.768 397.15 266.554 398.082Z" fill="#C4C4C4"/>
 </mask>
-<g mask="url(#mask0_6463_37)">
+<g mask="url(#mask1_7002_73)">
 <rect id="Image" x="138" y="138" width="296" height="296" fill="#FFE600"/>
 </g>
 </g>
 <g id="Right">
-<mask id="mask1_6463_37" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="286" y="286" width="297" height="297">
+<mask id="mask2_7002_73" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="286" y="286" width="297" height="297">
 <path id="Mask_2" d="M530.32 582.009C514.659 582.009 475.636 563.411 453.449 546.091C451.23 544.387 449.403 543.678 447.576 543.678C445.879 543.82 444.183 543.962 442.486 543.962C348.387 543.962 286.003 485.755 286.003 415.056C286.003 343.647 351.78 286.009 434.003 286.009C516.225 286.009 582.003 343.647 582.003 415.056C582.003 460.485 556.292 500.378 514.398 524.796C512.44 525.932 511.787 528.061 512.832 530.191C520.14 543.252 533.191 558.868 538.151 565.966C543.241 573.065 540.37 582.009 530.32 582.009Z" fill="#FF0000"/>
 </mask>
-<g mask="url(#mask1_6463_37)">
+<g mask="url(#mask2_7002_73)">
 <rect id="Image_2" x="286" y="286" width="296" height="296" fill="#FFE600"/>
+</g>
+</g>
 </g>
 </g>
 </g>
